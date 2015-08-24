@@ -5,4 +5,5 @@
 /robots.txt RobotsR GET
 
 / HomeR GET POST
-/feedback/new FeedbackNewR GET
+/feedback/new FeedbackNewR GET POST
+/feedback/!#FeedbackId FeedbackDetailsR GET

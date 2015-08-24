@@ -1,0 +1,4 @@
+<h1>#{feedbackTeam feedback}
+
+<article .jumbotron>
+  #{feedbackComments feedback}
